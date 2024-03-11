@@ -31,17 +31,3 @@
 .app-nav-ul-li-a:hover {
     color: blue;
 }
-
-.app-div {
-    width: auto;
-    height: auto;
-    padding: auto;
-    margin: auto;
-}
-
-.app-div-h1 {
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
-    padding: 10px;
-}
-

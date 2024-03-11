@@ -1,0 +1,13 @@
+.app-home-div {
+    width: auto;
+    height: auto;
+    padding: auto;
+    margin: auto;
+}
+
+.app-home-div-h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
