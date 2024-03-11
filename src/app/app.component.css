@@ -1,0 +1,47 @@
+.app-nav {
+    background-color: #337ab7;
+    color: white;
+    font-family: sans-serif;
+    border: 1px solid black;
+    width: 100%;
+    float: left;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.app-nav-ul {
+    display: flex;
+    justify-content: space-between;
+    width: auto-fit;
+    height: auto-fit;
+    padding: 10px;
+    margin: 20px;
+    list-style: none;
+}
+
+.app-nav-ul-li {
+    color: white;
+}
+
+.app-nav-ul-li-a {
+    color: black;
+}
+
+.app-nav-ul-li-a:hover {
+    color: blue;
+}
+
+.app-div {
+    width: auto;
+    height: auto;
+    padding: auto;
+    margin: auto;
+}
+
+.app-div-h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
